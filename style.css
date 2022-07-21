@@ -5,3 +5,8 @@ body {
 .staff {
     color: green;
 }
+
+.stagg-searched {
+    background: red;
+    color: white;
+}
